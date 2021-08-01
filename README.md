@@ -9,6 +9,6 @@
 
 | 书名 | 豆瓣评分 |
 | --- | --- |
-| [《Apache Kafka源码剖析》](TODO) | [8.4](https://book.douban.com/subject/27038473/) |
+| [《Apache Kafka源码剖析》](https://github.com/YunaiV/books/blob/main/Kafka/Apache+Kafka源码剖析) | [8.4](https://book.douban.com/subject/27038473/) |
 | [《Kafka技术内幕》](https://github.com/YunaiV/books/blob/main/Kafka/Kafka技术内幕) | [6.9](https://book.douban.com/subject/27038473/) |
-| [《Kafka源码解析与实战》](https://github.com/YunaiV/books/blob/main/Kafka/Kafka源码解析与实战.pdf) | [暂无](https://book.douban.com/subject/30128444/) |
+| [《Kafka源码解析与实战》](https://github.com/YunaiV/books/blob/main/Kafka/Kafka源码解析与实战) | [暂无](https://book.douban.com/subject/30128444/) |
